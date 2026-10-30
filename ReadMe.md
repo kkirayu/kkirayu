@@ -10,7 +10,7 @@
 <br/><br/>
 
 <!-- GIF oshi -->
-<img src="./michie-jkt48-michie-jeketi.gif" width="260" alt="Michie JKT48"/>
+<img src="./michie-jkt48-michie-jeketi.gif" width="480" alt="Michie JKT48"/>
 
 <br/>
 
