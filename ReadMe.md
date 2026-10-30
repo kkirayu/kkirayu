@@ -1,7 +1,11 @@
 <!-- Header animasi merah-putih ala JKT48 -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,24&height=220&section=header&text=Muhammad%20Danil&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9D%A4%EF%B8%8F%20JKT48%20Fans%20%E2%80%A2%20Informatics%20Student%20%E2%80%A2%20Matcha%20Lover%20%E2%9D%A4%EF%B8%8F&descAlignY=60&descSize=18" width="100%"/>
+<img src="./banner-michie.svg" width="100%" alt="Banner hati JKT48"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=E60026&center=true&vCenter=true&width=600&lines=Halo!+Aku+Danil+%F0%9F%91%8B;Mahasiswa+Informatika+%40+Amikom+Yogyakarta;Full-Stack+Developer+%F0%9F%92%BB;Wota+JKT48+garis+keras+%F0%9F%92%96;Pecinta+matcha+cake+%F0%9F%8D%B0" alt="Typing SVG" />
+</a>
 
 <br/><br/>
 
@@ -27,7 +31,7 @@
 | 📍 **Lokasi** | Yogyakarta, Indonesia |
 | 🍰 **Favorit** | Matcha cake |
 | 🎤 **Oshi** | Michie JKT48 💖 |
-| 🔥 **Mood** | Heavy Rotation di playlist 24/7 |
+| 🔥 **Mood** | Sonichi di playlist 24/7 |
 
 </div>
 
@@ -126,7 +130,7 @@
 |---|---|
 | **Oshi** | Michie |
 | **Fanbase** | Wota JKT48 |
-| **Lagu Favorit** | Heavy Rotation · Fortune Cookie · Sakura no Hanabiratachi |
+| **Lagu Favorit** | Sonichi |
 | **Slogan** | *Ganbarimasu!* 🔥 |
 
 <br/>
@@ -143,6 +147,6 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,24&height=120&section=footer" width="100%"/>
+<img src="./footer-michie.svg" width="100%" alt="Footer hati JKT48"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
